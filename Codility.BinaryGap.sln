@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.BinaryGap", "Codility.BinaryGap\Codility.BinaryGap.csproj", "{DD4B6FF8-4261-4B1D-BC27-84B56976224D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.BinaryGap.UnitTests", "Codility.BinaryGap.UnitTests\Codility.BinaryGap.UnitTests.csproj", "{D6C7AAB0-3D4D-4D0B-8AB3-A0EF2732D67F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4B6FF8-4261-4B1D-BC27-84B56976224D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4B6FF8-4261-4B1D-BC27-84B56976224D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4B6FF8-4261-4B1D-BC27-84B56976224D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4B6FF8-4261-4B1D-BC27-84B56976224D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C7AAB0-3D4D-4D0B-8AB3-A0EF2732D67F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C7AAB0-3D4D-4D0B-8AB3-A0EF2732D67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C7AAB0-3D4D-4D0B-8AB3-A0EF2732D67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C7AAB0-3D4D-4D0B-8AB3-A0EF2732D67F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B8F081A-2119-453E-A2BB-737AAA433A4A}
+	EndGlobalSection
+EndGlobal
